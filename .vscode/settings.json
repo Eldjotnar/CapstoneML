@@ -1,0 +1,3 @@
+{
+    "python.pythonPath": "${workspaceFolder}/venv_audio_generation/bin/python"
+}

@@ -2,3 +2,4 @@ logdir/
 VCTK-Corpus/
 *.pyc
 .DS_Store
+venv_audio_generation/*
