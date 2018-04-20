@@ -3,3 +3,6 @@ VCTK-Corpus/
 *.pyc
 .DS_Store
 venv_audio_generation/*
+audio_generation/audio_env/
+audio_generation/audio_env_start.sh
+
