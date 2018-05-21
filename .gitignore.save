@@ -1,5 +1,0 @@
-logdir/
-VCTK-Corpus/
-*.pyc
-.DS_Store
-audio_generation/*
